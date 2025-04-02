@@ -19,7 +19,7 @@ module.exports = {
     const senderID = event.senderID;
 
     const loadingMessage = await message.reply({
-      body: "কিরে লুচ্চা 🤨 দারা দিতেছি 😜",
+      body: "দারাও দিচ্ছি লুচ্চা ভালো হয়ে যাও 😒",
     });
 
     const link = [
