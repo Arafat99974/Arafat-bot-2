@@ -193,15 +193,15 @@ module.exports.onChat = async ({ api, event }) => {
   const { threadID, messageID, body, senderID } = event;
 
   const cMessages = ["🎀 Hello bby!", 
-    "🎀 Hi there!", 
+    "🎀 Salam Daw pio 😒", 
     "🎀 Hey! How can I help?😝", 
     "চুপ চাপ Propose কর আমারে🫢", 
     "😑 দূরে যাইয়া মুরি খাঁ, তোর কোনো কাজ কাম নাই", 
     "কি হয়ছে বেবি দাকস কেন 🍆🙂",
     "আমারে কেনো লাগবে তুর বল 🦆",
     "Ami ekhane bby 🥹",
-    "Amake vhule jaw 🤌😫",
-    "Ei ne amar rubbish boss er id\n\n✨ https://www.facebook.com/sirana252 🫰\n\namare arr disturb korbi nah jah 😑😒",
+    "Amake vhule jaw Ami akon Arafat Ar 🤌😫",
+    "Ei ne amar rubbish boss er id\n\n✨ https://www.facebook.com/Arafatas602 🫰\n\namare arr disturb korbi nah jah 😑😒",
     "ki hoiche ki koibi ?🐐",
     "kire bukachuda dakhtechos killai etw🐐👈",
     "Ami shudhu ShAn er bbu🤌😫",
